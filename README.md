@@ -2,6 +2,7 @@
 
 A lightweight CLI tool that analyzes raw email files for common phishing signals (headers, links, language, and attachments).
 
+**Tool's URL at: https://entrytocyber.com/tools/phishing-email-checker/
 **More cybersecurity tools at [Entry To Cyber](https://entrytocyber.com)**
 
 ---
